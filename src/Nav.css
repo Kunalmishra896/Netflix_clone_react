@@ -1,0 +1,22 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.netflix_logo {
+  position: fixed;
+  left: 20px;
+  width: 80px;
+  object-fit: contain;
+}
+
+.avatar_logo {
+  position: fixed;
+  right: 20px;
+  width: 30px;
+  object-fit: contain;
+}
